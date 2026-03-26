@@ -1,0 +1,22 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.VC.db
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python/Node misc if used for tooling
+__pycache__/
+node_modules/
+
+# External heavy source assets (upload to Azure)
+ExternalAssets/
